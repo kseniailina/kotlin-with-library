@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="my-kotlin-library">
+    <output-path>$PROJECT_DIR$/out/artifacts/my_kotlin_library</output-path>
+    <root id="archive" name="my-kotlin-library.jar" />
+  </artifact>
+</component>
